@@ -2,8 +2,7 @@
 
 <h3>ENTER YOUR NAME BHARATH S</h3>
 <h3>ENTER YOUR REGISTER NO 212225230031</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
